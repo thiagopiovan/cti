@@ -1,0 +1,47 @@
+c:\users\ra1457020\documents\visual studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.exe.config
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.csprojResolveAssemblyReference.cache
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.Properties.Resources.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.csproj.GenerateResource.Cache
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.exe
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.pdb
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Npgsql.dll
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Npgsql.xml
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.exe
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.pdb
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmCadastraDoacao.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmConsulta.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmInicio.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmLogin.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.exe.config
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.exe
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.pdb
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.exe
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\SI_CTI_DO_BEM.pdb
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Npgsql.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Npgsql.xml
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.csprojResolveAssemblyReference.cache
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmCadastraDoacao.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmConsulta.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmInicio.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmLogin.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.Properties.Resources.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\SI_CTI_DO_BEM.csproj.GenerateResource.Cache
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmCadastraUsu.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmMeuPerfil.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmCadastraUsu.resources
+C:\Users\ra1457020\Documents\Visual Studio 2015\Projects\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmMeuPerfil.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\CadastroDoacoes.FrmRepImpr.resources
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\RdlCompile.cache
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\obj\Debug\RdlCompile.compiled
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ra1457020\Desktop\SI_CTI_DO_BEM\SI_CTI_DO_BEM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
