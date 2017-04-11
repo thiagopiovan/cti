@@ -1,0 +1,409 @@
+body
+{
+	background-color: black;
+	font-family:verdana;
+}
+
+#mae_home
+{
+	background-color: grey;
+	width: 800px;
+	height: 1365px;
+	margin: auto;
+}
+
+#logo
+{
+	background-color: grey;
+	float: left;
+	width: 800px;
+	height: 100px;         
+} 
+
+#bloco1
+{
+	float: left;
+	width: 800px;
+	height: 50px;
+}
+
+#botao 
+{
+    background-color: orange;
+    float:left;
+    width: 150;
+    height:40;
+	border-width:5px;
+	border-color:#778899;
+	border-style:groove;
+	line-height: 40px;
+	text-decoration: none;
+	color: black;
+}
+
+#botao:hover
+{
+    background-color: #FF7F00;
+	float:left;
+    width: 150;
+    height:40;
+	border-width:5px;
+	border-color:#778899;
+	border-style:groove;
+	line-height: 40px;
+	color: white;
+}
+
+#imagem1
+{
+	background-color: grey;
+	float: left;
+	width: 800px;
+	height: 400px;
+}  
+
+#texto1
+{
+    border: 5px solid transparent;
+	background-color:grey;
+    float: left;
+	text-align: justify;
+	width: 790px;
+	height: 150px;
+	font-size: 12px;
+} 
+
+#bloco2
+{
+	float: left;
+	width: 800px;
+	height: 280px;
+}
+
+#bloco2ac
+{
+	float: left;
+	width: 265px;
+	height: 280px;
+}
+
+#bloco2b
+{
+	float: left;
+	width: 270px;
+	height: 280px;
+}
+
+#imagem2ac
+{
+	float: left;
+	width: 265px;
+	height: 165px;
+}
+
+#imagem2b
+{
+	float: left;
+	width: 270px;
+	height: 165px;
+}
+
+#texto2ac
+{
+	border: 5px solid transparent;
+	text-align: justify;
+	float: left;
+	width: 255px;
+	height: 105px;
+	font-size: 12px;
+}
+
+#texto2b
+{
+    border: 5px solid transparent;
+	text-align: justify;
+	float: left;
+    width: 260px;
+	height: 100px;
+	font-size: 12px;
+}
+
+#saibamais
+{
+	float: right;
+	color: red;
+	text-decoration: none;
+}
+
+#saibamais:hover
+{
+    text-decoration: none;
+    color: white;
+}
+
+#bloco3
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 300px;
+}
+
+#textofilme
+{
+	border: 5px solid transparent;
+	background-color: grey;
+	float: left;
+	text-align: justify;
+	width: 290px;
+	height: 290px;
+	font-size: 12px;
+}
+
+#filme
+{
+	background-color:grey;
+	float: left;
+	width: 500px;
+	height: 300px;
+}
+
+#mae_detalhes
+{
+	background-color: grey;
+	width: 800px;
+	height: 1105px;
+	margin: auto;
+}
+
+#bloco_detalhes
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 970px; 
+	font-size: 14px;
+}
+
+#texto_detalhes
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 340px;
+	height: 290px;
+	text-align: justify;
+	font-size: 12px;
+}
+
+#imagem_detalhes
+{
+	background-color:grey;
+	float: left;
+	width: 450px;
+	height: 300px;
+}
+
+#mae_anteriores
+{
+	background-color: grey;
+	width: 800px;
+	height: 1205px;
+	margin: auto;
+}
+
+#bloco_anteriores
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 1040px;
+	font-size: 14px;
+}
+
+#imagem_anteriores1
+{
+	background-color:grey;
+	float: left;
+	width: 265px;
+	height: 755px;
+}
+
+#imagem_anteriores2
+{
+	background-color:grey;
+	float: left;
+	width: 270px;
+	height: 755px;
+}
+
+#texto_anteriores1
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 255px;
+	height: 200px;
+	text-align: justify;
+	font-size: 12px;
+}
+
+#texto_anteriores2
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 260px;
+	height: 200px;
+	text-align: justify;
+	font-size: 12px;
+}
+
+#mae_comprar
+{
+	background-color: grey;
+	width: 800px;
+	height: 1135px;
+	margin: auto;
+}
+
+#bloco_comprar
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 900px;
+	font-size: 14px;
+}
+
+#imagem_comprar
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 200px;
+}
+
+#form_comprar
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 700px;
+	font-size: 12px;
+}
+
+#esquerda
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 290px;
+	height: 50px;
+}
+
+#direita
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 490px;
+	height: 50px;
+}
+
+#esquerda_comentario
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 290px;
+	height: 200px;
+}
+
+#direita_comentario
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 490px;
+	height: 200px;
+}
+#mae_design
+{
+	background-color: grey;
+	width: 800px;
+	height: 905px;
+	margin: auto;
+}
+
+#bloco_design
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 800px; 
+	text-align: justify;
+	font-size: 14px;
+}
+
+#imagem_design
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 240px;
+	height: 790px;
+}
+
+#alunos_design
+{
+	background-color:grey;
+	float: left;
+	width: 550px;
+	height: 800px;
+}
+
+#perfil_design
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+
+#texto_design
+{
+	border: 5px solid transparent;
+	background-color:grey;
+	float: left;
+	width: 430px;
+	height: 100px; 
+	text-align: justify;
+	font-size: 12px;
+}
+
+#bloco4
+{
+	background-color:grey;
+	float: left;
+	width: 800px;
+	height: 80px; 
+	text-align: middle;
+} 
+
+#link
+{
+	display: inline-block;
+	text-align: middle;
+	text-decoration: none;
+    color: black;
+}
+
+#link:hover
+{
+	display: inline-block;
+	text-align: middle;
+	text-decoration: none;
+    color: white;
+}
